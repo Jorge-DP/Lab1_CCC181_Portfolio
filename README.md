@@ -27,7 +27,7 @@ This project is a static HTML Personal Portfolio Page served using the Bonezegei
 
 ### Browser Rendered Screenshot :
 
-<img width="1918" height="947" alt="web" src="https://github.com/user-attachments/assets/c513e3df-8e23-4415-a92f-d23865d3f360" />
+<img width="1919" height="1043" alt="web" src="https://github.com/user-attachments/assets/9fa789ae-f977-494f-a214-b10ae252b758" />
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file.
